@@ -1,4 +1,0 @@
-encryptionsalt: v1:WTA5GgMxeX8=:v1:2LxpEhzFGKt3ODk6:nRYuqeHYpb13fNUKifjR/6Q1UWwl0A==
-config:
-  kubernetes:context: minikube
-  guestbook:isMinikube: "true"
